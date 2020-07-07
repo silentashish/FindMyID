@@ -10,7 +10,7 @@
   "author": "Firstpaddle",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^8.0.1"
+    "electron": "^8.2.4"
   },
   "dependencies": {
     "node-machine-id": "^1.1.12"
